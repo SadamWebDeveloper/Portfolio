@@ -358,7 +358,7 @@ body.light-theme {
 .home__education {
   color: var(--text-color);
   margin-bottom: 2.5rem;
-}
+} 
 
 .home__name {
   font-size: var(--biggest-font-size);
