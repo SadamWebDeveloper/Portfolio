@@ -366,8 +366,10 @@ body.light-theme {
 
 .home__img {
   width: 200px;
-  padding-bottom: 24%;
-  border-radius: 100%;
+  /* padding-bottom: 27%;
+  border-radius: 100%; */
+  height: 109% !important;
+  
 }
 
 .home__handle {
@@ -1103,7 +1105,8 @@ contact__form-area textarea {
     height: 400px;
   }
   .home__img {
-    width: 220px;
+    width: 327px;
+    height: 406px !important;
   }
   .home__social-link {
     padding: 0.4rem;
